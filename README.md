@@ -1,16 +1,10 @@
 # huel_design_website
 
-A new Flutter project.
+A Web Project based on the UI Design from dribble
 
-## Getting Started
+https://dribbble.com/shots/15693991-Huel
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/71022967/136673122-33f1ca8d-54d0-48db-b05b-0bebccc603dc.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
